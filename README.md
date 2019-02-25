@@ -1,13 +1,13 @@
 # elastic-twitter-canvas
-Streaming real time tweets into Elasticsearch, then visualizing it using Kibana's Canvas. 
+Streaming real time tweets into Elasticsearch, and then visualizing it in Kibana's Canvas to find out what's the most popular drink among "tea", "coffee" & "beer"?
 
-To find out what's the most popular drink among tea, coffee & beer? 
-
-Canvas Before Running the Application Class
+# Canvas before running the Application class: 
 ![Canvas1](https://raw.githubusercontent.com/TechnocratSid/elastic-twitter-canvas/master/BeforeRunning.PNG)
 
-Canvas After Running the Application Class
-![Canvas2](https://raw.githubusercontent.com/TechnocratSid/elastic-twitter-canvas/master/AfterRunning.PNG)
+# Canvas after running the Application class:
+![Canvas2](https://raw.githubusercontent.com/TechnocratSid/elastic-twitter-canvas/master/AfterSometime.PNG)
 
-Results
+# Results
 ![Canvas2](https://raw.githubusercontent.com/TechnocratSid/elastic-twitter-canvas/master/Results.PNG)
+
+Cheers!! Beer is the winner :) 
